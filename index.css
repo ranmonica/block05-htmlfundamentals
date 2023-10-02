@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    width: 500px;
+    padding: 30px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-left: 500px;
+    text-transform: lowercase;
+    
+
+}
+
+header {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+h2 {
+    text-align: center;
+    text-transform: lowercase;
+    color: black;
+}
+
+p {
+    text-align: center;
+}
+
